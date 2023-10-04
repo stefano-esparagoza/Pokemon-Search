@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600&display=swap');
+
+html {
+    background-color: #89C893;
+}
+.pokemonSeachContainer {
+    margin: 0 auto;
+    padding-bottom: 15px;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 50%;
+
+    border-radius: 25px;
+
+}
+
+div.pokemonSeachContainer h1 {
+    margin: 0;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    color: #49896F;
+}
+
+div.pokemonSeachContainer input {
+    margin-left: 34.5%;
+    height: 40px;
+    width: 30%;
+
+    border-color: #92D1B3;
+    border-radius: 10px;
+
+    font-family: 'Outfit', sans-serif;
+    font-size: 20px;
+}
+
+div.pokemonSeachContainer button {
+    position: absolute;
+    left: 54.15%;
+    top: 7.35%;
+
+    height: 40px;
+    width: 3.25%;
+
+    background-color: #B74555;
+    border-color: #992b39;
+    border-radius: 10px;
+
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    color: #411218;
+}
+
+.pokemonCredentials {
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 50%;
+
+    font-family: 'Outfit', sans-serif;
+    color:  #3A6E59;
+    font-size: 20px;
+
+    border-radius: 25px;
+}
+
+.pokemonCredentials h1 {
+    margin: 1%;
+    margin-left: 3%;
+}
+
+#pokemonImage {
+    width: 20%;
+    background-color: #ffffff;
+    border-radius: 50%;
+    margin-top: 2.5%;
+    margin-left: 3%;
+    border: 7.5px;
+    border-color: #3A6E59;
+    border-style:solid
+}
+
+#abilitiesList {
+    margin: 0;
+    margin-left: 4%;
+    padding-bottom: 2.5%;
+
+    font-size: 25px;
+    font-weight: 600;
+}
